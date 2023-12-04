@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az4000-eshopweb-newthow22
   LOCATION: westus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
+  SUBSCRIPTION-ID: 45dc23ce-6fc3-4ac9-ade2-3cb304da6c5a
   WEBAPP-NAME: az400-webapp-ralexandere05
 
 
